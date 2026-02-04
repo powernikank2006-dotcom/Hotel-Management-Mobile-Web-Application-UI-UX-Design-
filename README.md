@@ -1,2 +1,2 @@
-# Hotel-Management-Web-Application-Dashboard-UI-UX-Design-
-A desktop-focused Hotel Management Web Application UI/UX designed in Figma. Includes dashboards for room occupancy, reservations, housekeeping, check-ins and check-outs, staff management, and analytics. Built with clean layouts, intuitive navigation, and scalable components for efficient hotel operations.
+# Hotel-Management-Mobile-Web-Application-Dashboard-UI-UX-Design-
+A mobile-first Hotel Management Web Application UI/UX designed in Figma. Covers room availability, bookings, occupancy tracking, housekeeping updates, check-in and check-out flows, and notifications. Focuses on clean visuals, intuitive navigation, touch-friendly components, and responsive design for modern smartphones.
